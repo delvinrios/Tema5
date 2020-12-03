@@ -1,4 +1,4 @@
-# Modelos probabilisticos de señales y sitemas
+# Modelos probabilísticos de señales y sistemas
 ## Laboratorio 5: Tema 5
 ## Delvin Ríos Rodríguez, B76319
 
