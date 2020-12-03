@@ -11,6 +11,6 @@ P(1 o más clientes en el sistema) = rho = lamda/v = 0.9.
 
 Del enunciado se tenía que: lamda = 2
 
-Entonces al despejas se tiene que: v = 2.2222
+Entonces al despejar se tiene que: v = 2.2222
 
 Modificando los parámetros en el código se logra ver en la figura y en los resultados que si se cumple la especificación del problema
